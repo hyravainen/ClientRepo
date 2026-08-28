@@ -10,6 +10,8 @@ submitting.
 
 ## Getting started
 
+upstream test
+
 ### 1. Clone this repository
 
     git clone https://git.vamk.fi/tuo/CSP26_Console.git
