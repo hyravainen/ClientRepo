@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ClientRepo
 =======
+=======
+>>>>>>> b135599c8714354cf6de3aa0deaad0d2e24bc199
 # CSP26_Console — In-class exercises (console applications)
 
 Template repository for console-based in-class exercises on the
@@ -73,4 +76,7 @@ More exercises will appear here as the course progresses.
 ## License
 
 This repository is for educational use only.
+<<<<<<< HEAD
 >>>>>>> 27de6eb (Add project files.)
+=======
+>>>>>>> b135599c8714354cf6de3aa0deaad0d2e24bc199
